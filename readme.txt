@@ -1,2 +1,2 @@
-Hell0!
-Today is January 4th, 2022.
+Hello!
+Today is Jan 4, 2022!
